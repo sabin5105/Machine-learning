@@ -1,2 +1,2 @@
 # Machine-learning
-Studying Machine learning
+## please check the Wiki
